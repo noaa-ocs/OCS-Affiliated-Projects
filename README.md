@@ -7,6 +7,6 @@
 
 Below is a list of Office of Coast Survey Affiliated GitHub organizations with a link and brief description. More information on their repositories can be found in the README files of each page.
 
-### [Precision Navigation](https://github.com/noaa-ocs-precisionnavigation)
+### [S-100](https://github.com/noaa-ocs-s100)
 
-NOAA’s [precision navigation program](https://nauticalcharts.noaa.gov/learn/precision-navigation.html) seamlessly integrates high-resolution bathymetry, high accuracy positioning and shoreline data with real-time predictions, and forecast data—such as water levels, currents, salinity, temperature, waves, and weather forecasts—to provide our data in a format that could be easily accessed and integrated into maritime portable pilot units or decision support tools.
+NOAA’s [S-100](http://s100.iho.int/S100/) work aims to capture the various libraries used in support of the IHO S-100 framework.
