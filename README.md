@@ -10,3 +10,7 @@ Below is a list of Office of Coast Survey Affiliated GitHub organizations with a
 ### [S-100](https://github.com/noaa-ocs-s100)
 
 [NOAA’s S-100](https://noaacoastsurvey.wordpress.com/2018/06/12/the-world-of-s-100-updated-framework-of-maritime-data-standards-to-be-released-in-2018/) work aims to capture various libraries used by Coast Survey in support of the [IHO S-100 framework](http://s100.iho.int/S100/).
+
+### [Modeling](https://github.com/noaa-ocs-modeling)
+
+NOAA Office of Coast Survey modeling effort supports operational tools such as [Precision Nav](https://noaacoastsurvey.wordpress.com/2018/06/12/the-world-of-s-100-updated-framework-of-maritime-data-standards-to-be-released-in-2018/), [NowCoast](https://nowcoast.noaa.gov/) and [VDatum](https://vdatum.noaa.gov/).
