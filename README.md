@@ -15,7 +15,7 @@ Office of Coast Survey maintains a number of tools to support hydrographic work.
 
 NOAA Office of Coast Survey modeling effort supports operational tools such as [Precision Nav](https://noaacoastsurvey.wordpress.com/2018/06/12/the-world-of-s-100-updated-framework-of-maritime-data-standards-to-be-released-in-2018/), [NowCoast](https://nowcoast.noaa.gov/) and [VDatum](https://vdatum.noaa.gov/).
 
-### [nowCoast](https://github.com/noaa-nowcoast)
+### [nowCOAST](https://github.com/noaa-nowcoast)
 [NOAA's nowCOAST](https://nowcoast.noaa.gov/): A software framework for processing, visualizing, and disseminating NOAA's meteorological, oceanographic, and hydrologic datasets via geospatial web services
 
 ### [S-100](https://github.com/noaa-ocs-s100)
